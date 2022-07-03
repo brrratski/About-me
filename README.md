@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brrratski
+- 👋 Hi, I’m Nikolay @brrratski Rusev
 - 👀 I’m interested in QA Test automation
-- 🌱 I’m currently learning Test automation
-- 📫 How to reach me https://www.linkedin.com/in/nikolayrusevqa/
+- 🌱 I’m currently learning Java/C# Test automation
+- 📫 How to reach me -> https://www.linkedin.com/in/nikolayrusevtheqagod/
 
 
 <!---
